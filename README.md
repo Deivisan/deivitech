@@ -1,84 +1,55 @@
-# 🚀 DeiviTech - Soluções Tecnológicas Inovadoras
+# 🚀 DeiviTech
 
 [![DeiviTech](https://img.shields.io/badge/DeiviTech-Inovação%20Tecnológica-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deivisan/deivitech)
 [![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)](https://github.com/Deivisan/deivitech)
 
-Bem-vindo ao **DeiviTech**! Este repositório é o hub central da DeiviTech, empresa especializada em desenvolvimento de software, automação, suporte técnico e iniciativas sociais. Aqui concentramos projetos que transformam ideias em soluções práticas e acessíveis, demonstrando tecnologias avançadas em sistemas para PC, celular e hardware.
+**Hub de soluções tecnológicas da DeiviTech.** Empresa fundada por Deivison Santana, especializada em desenvolvimento web, automação e suporte técnico. Transformamos ideias em projetos práticos e acessíveis.
 
 ## 🏢 Sobre a DeiviTech
 
-A DeiviTech é uma empresa de tecnologia fundada por Deivison Santana, localizada em Feira de Santana, Bahia. Nossa missão é democratizar o acesso à tecnologia, promovendo eficiência, automação e impacto positivo na comunidade através de soluções digitais inovadoras.
+A DeiviTech é uma empresa de tecnologia fundada por Deivison Santana em Feira de Santana, Bahia. Desde 2010, focamos em democratizar o acesso à tecnologia através de soluções inovadoras e eficientes.
 
-- **Visão**: Ser referência em soluções tech acessíveis e socialmente responsáveis.
-- **Valores**: Inovação, eficiência, responsabilidade social e aprendizado contínuo.
-- **Fundador**: Deivison Santana, desenvolvedor com experiência em infraestrutura e web development desde 2010.
+## 💼 Serviços
 
-### 🎥 Demonstração Tecnológica
-
-![Automação em Ação](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)  
-*Scripts Python automatizando tarefas complexas em tempo real.*
-
-## 💼 Serviços Oferecidos
-
-| Serviço | Descrição | Demonstração |
-|---------|-----------|--------------|
-| Desenvolvimento Web | Sites responsivos e aplicações web otimizadas | [FreelancerDeiviTech](https://deivisan.github.io/FreelancerDeiviTech/) |
-| Automação Python | Scripts para produtividade em PC e servidores | [automation-scripts](https://github.com/deivisan/automation-scripts) |
-| Formatação & Suporte | Manutenção de PCs e sistemas operacionais | [DeiviTech-Formatacao](https://deivisan.github.io/DeiviTech-Formatacao/) |
-| Consultoria Tech | Estratégias para sistemas empresariais | [Contato](https://wa.me/5575981231019) |
-| Projetos Sociais | Inclusão digital via apps móveis | [DeiviTech-Filantropia](https://deivisan.github.io/DeiviTech-Filantropia/) |
+- **Desenvolvimento Web:** Sites responsivos e aplicações otimizadas.
+- **Automação Python:** Scripts para produtividade em PC e servidores.
+- **Formatação & Suporte:** Manutenção de PCs e sistemas operacionais.
+- **Consultoria Tech:** Estratégias para sistemas empresariais.
+- **Projetos Sociais:** Inclusão digital via apps móveis.
 
 ## 💻 Stack Tecnológica
 
-- **Linguagens:** HTML5, CSS3, JavaScript, Python
-- **Frameworks:** TailwindCSS para designs responsivos
-- **Ferramentas:** Git, VS Code, Docker, Arch Linux
-- **IA Assistida:** GitHub Copilot para aceleração de desenvolvimento
+Nossas linguagens ativas para criações incluem:
+
+- **HTML5 & CSS3:** Para interfaces web criativas e responsivas.
+- **JavaScript:** Desenvolvimento interativo e dinâmico.
+- **Python:** Automação e scripts inteligentes para soluções práticas.
+
+Ferramentas: Git, VS Code, Docker, Arch Linux. IA assistida com GitHub Copilot para aceleração criativa.
 
 ### 🔧 Sistemas e Hardware
 
-Demonstramos expertise em diversos sistemas e hardwares:
+Demonstramos expertise em sistemas otimizados para criações:
 
-- **Sistemas para PC:** Automação de tarefas em Windows/Linux, otimização de performance com Ryzen 7 e SSD NVMe.
-- **Sistemas para Celular:** Desenvolvimento de apps responsivos e integração WhatsApp para comunicação instantânea.
-- **Hardware:** Suporte a processadores AMD, GPUs integradas e armazenamento de alta velocidade.
-
-![Hardware Otimizado](https://media.giphy.com/media/3o7TKz9bX9Z8h9Z8h9/giphy.gif)  
-*Otimização de hardware para máxima eficiência.*
+- **Sistemas para PC:** Automação em Windows/Linux, com hardware como Ryzen 7 5700G (8 cores/16 threads, até 4.6GHz), 32GB DDR4-3200 e SSD NVMe Samsung 970 EVO Plus 250GB para performance máxima.
+- **Sistemas para Celular:** Apps responsivos com integração WhatsApp.
+- **Hardware:** Suporte a processadores AMD, GPUs integradas Vega 8 (1.8 TFLOPS) e armazenamento de alta velocidade.
 
 ## 📁 Estrutura do Repositório
 
-Organizamos nossos projetos em pastas temáticas para facilitar a navegação e colaboração:
-
-- **Base/**: Documentação base, specs do hardware/SO, stack atual
-- **Dev/**: Projetos de desenvolvimento web e software
-- **AI/**: Experimentos com automação e IA
-- **Web/**: Sites e aplicações web desenvolvidas
-- **Scripts/**: Scripts consolidados e versionados
-- **Temp/**: Experimentos rápidos, temporários
-- **Backup/**: Arquivos antigos e archives
+- **Base/**: Documentação base e configurações.
+- **Dev/**: Projetos de desenvolvimento.
+- **AI/**: Experimentos com automação.
+- **Web/**: Sites e aplicações.
+- **Scripts/**: Scripts consolidados.
+- **Temp/**: Experimentos temporários.
+- **Backup/**: Arquivos antigos.
 
 ## 🚀 Como Usar
 
-1. **Clone o repositório:** `git clone https://github.com/Deivisan/deivitech.git`
-2. **Navegue:** `cd deivitech`
-3. **Explore projetos:** Cada pasta tem seu próprio README com instruções
-4. **Contribua:** Abra issues ou PRs para colaborações
-
-## 📊 Estatísticas
-
-- ✅ 15+ Sites Desenvolvidos
-- ✅ 50+ Scripts Criados
-- ✅ 200+ Clientes Atendidos
-- ✅ 150+ PCs Formatados
-- ✅ Satisfação: 98%
-- ✅ Tempo de Resposta: <2h
-
-## 📊 Status Atual
-
-- ✅ Repositório inicializado
-- 🔄 Projetos em desenvolvimento contínuo
-- 🚧 Expansão para novos serviços
+1. Clone: `git clone https://github.com/Deivisan/deivitech.git`
+2. Navegue: `cd deivitech`
+3. Explore pastas com READMEs individuais.
 
 ## 🤝 Contato
 
@@ -90,4 +61,4 @@ Organizamos nossos projetos em pastas temáticas para facilitar a navegação e 
 
 ---
 
-**DeiviTech: Inovando com Tecnologia** 🚀 Transformando ideias em soluções práticas e acessíveis.
+**DeiviTech: Inovando com Tecnologia.** Futuramente, este repositório será uma vitrine completa de ideias e projetos. Para arte gráfica visual atraente, considere adicionar um banner personalizado ou logo no topo.
