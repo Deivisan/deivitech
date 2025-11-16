@@ -3,11 +3,11 @@
 [![DeiviTech](https://img.shields.io/badge/DeiviTech-Inovação%20Tecnológica-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deivisan/deivitech)
 [![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)](https://github.com/Deivisan/deivitech)
 
-**Hub de soluções tecnológicas da DeiviTech.** Empresa fundada por Deivison Santana, especializada em desenvolvimento web, automação e suporte técnico. Transformamos ideias em projetos práticos e acessíveis.
+**Hub de soluções tecnológicas da DeiviTech.** Empresa especializada em desenvolvimento web, automação e suporte técnico. Transformamos ideias em projetos práticos e acessíveis.
 
 ## 🏢 Sobre a DeiviTech
 
-A DeiviTech é uma empresa de tecnologia fundada por Deivison Santana em Feira de Santana, Bahia. Desde 2010, focamos em democratizar o acesso à tecnologia através de soluções inovadoras e eficientes.
+A DeiviTech é uma empresa de tecnologia especializada em soluções inovadoras e eficientes.
 
 ## 💼 Serviços
 
@@ -29,11 +29,7 @@ Ferramentas: Git, VS Code, Docker, Arch Linux. IA assistida com GitHub Copilot p
 
 ### 🔧 Sistemas e Hardware
 
-Demonstramos expertise em sistemas otimizados para criações:
-
-- **Sistemas para PC:** Automação em Windows/Linux, com hardware como Ryzen 7 5700G (8 cores/16 threads, até 4.6GHz), 32GB DDR4-3200 e SSD NVMe Samsung 970 EVO Plus 250GB para performance máxima.
-- **Sistemas para Celular:** Apps responsivos com integração WhatsApp.
-- **Hardware:** Suporte a processadores AMD, GPUs integradas Vega 8 (1.8 TFLOPS) e armazenamento de alta velocidade.
+Demonstramos expertise em diversos sistemas e hardwares para criações eficientes.
 
 ## 📁 Estrutura do Repositório
 
@@ -51,13 +47,18 @@ Demonstramos expertise em sistemas otimizados para criações:
 2. Navegue: `cd deivitech`
 3. Explore pastas com READMEs individuais.
 
+## 🔗 Repositórios Ligados
+
+- [FreelancerDeiviTech](https://github.com/Deivisan/FreelancerDeiviTech) - Desenvolvimento web freelancer.
+- [automation-scripts](https://github.com/Deivisan/automation-scripts) - Scripts de automação Python.
+- [DeiviTech-Formatacao](https://github.com/Deivisan/DeiviTech-Formatacao) - Suporte e formatação de PCs.
+- [DeiviTech-Filantropia](https://github.com/Deivisan/DeiviTech-Filantropia) - Projetos sociais e inclusão digital.
+
 ## 🤝 Contato
 
 - **GitHub:** [@Deivisan](https://github.com/Deivisan)
 - **LinkedIn:** [Deivison Santana](https://linkedin.com/in/deivisonlsantana)
-- **Email:** deivilsantana@outlook.com
 - **WhatsApp:** [+55 75 98123-1019](https://wa.me/5575981231019)
-- **Localização:** Feira de Santana, BA
 
 ---
 
