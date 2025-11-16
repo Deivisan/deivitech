@@ -1,55 +1,74 @@
-# 🚀 DeiviTech - Hub Tecnológico de Deivison Santana
+# 🚀 DeiviTech - Soluções Tecnológicas Inovadoras
 
-Bem-vindo ao **DeiviTech**! Este repositório é o centro nervoso dos meus projetos tecnológicos, onde exploro e construo soluções inovadoras em desenvolvimento de software, IA, web e muito mais.
+Bem-vindo ao **DeiviTech**! Este repositório é o hub central da DeiviTech, empresa especializada em desenvolvimento de software, automação, suporte técnico e iniciativas sociais. Aqui concentramos projetos que transformam ideias em soluções práticas e acessíveis.
 
-## 🧠 Sobre Mim (DevSan)
+## 🏢 Sobre a DeiviTech
 
-Sou **Deivison Santana**, desenvolvedor apaixonado por tecnologia, rodando tudo no **Arch Linux ZEN** no meu DeiviPC. Foco em eficiência, automação e aprendizado contínuo, sempre buscando otimizar processos e criar ferramentas práticas.
+A DeiviTech é uma empresa de tecnologia fundada por Deivison Santana, localizada em Feira de Santana, Bahia. Nossa missão é democratizar o acesso à tecnologia, promovendo eficiência, automação e impacto positivo na comunidade através de soluções digitais inovadoras.
 
-### 💻 Stack Principal
+- **Visão**: Ser referência em soluções tech acessíveis e socialmente responsáveis.
+- **Valores**: Inovação, eficiência, responsabilidade social e aprendizado contínuo.
+- **Fundador**: Deivison Santana, desenvolvedor com experiência em infraestrutura e web development desde 2010.
 
-- **Linguagens:** Python 3.13, Node.js 25, Rust 1.91, Go 1.25, Java 25
-- **Ferramentas:** Git, Docker, VS Code (Windsurf/QODER), MCPs (quando configurados)
-- **SO:** Arch Linux x86_64 com Kernel ZEN, Desktop COSMIC (Wayland)
-- **Hardware:** Ryzen 7 5700G, 32GB RAM, SSD NVMe
+## 💼 Serviços Oferecidos
 
-### 🛠️ Ferramentas Favoritas
+| Serviço | Descrição | Link |
+|---------|-----------|------|
+| Desenvolvimento Web | Sites responsivos, landing pages e e-commerce | [FreelancerDeiviTech](https://deivisan.github.io/FreelancerDeiviTech/) |
+| Automação Python | Scripts personalizados para produtividade | [automation-scripts](https://github.com/deivisan/automation-scripts) |
+| Formatação & Suporte | Windows, Linux e manutenção de PCs | [DeiviTech-Formatacao](https://deivisan.github.io/DeiviTech-Formatacao/) |
+| Consultoria Tech | Orientação estratégica e treinamentos | [Contato via WhatsApp](https://wa.me/5575981231019) |
+| Projetos Sociais | Inclusão digital e apoio a ONGs | [DeiviTech-Filantropia](https://deivisan.github.io/DeiviTech-Filantropia/) |
 
-- **CLI Modernas:** eza, bat, fd, ripgrep, fzf, htop
-- **Git:** LazyGit, aliases customizados
-- **Performance:** Paralelização com GNU parallel, otimização para Zen 3
+## 💻 Stack Tecnológica
+
+- **Linguagens:** HTML5, CSS3, JavaScript, Python
+- **Frameworks:** TailwindCSS
+- **Ferramentas:** Git, VS Code, Docker, Arch Linux
+- **IA Assistida:** GitHub Copilot para aceleração de desenvolvimento
 
 ## 📁 Estrutura do Repositório
 
-Organizo meus projetos em pastas temáticas para manter tudo limpo e acessível:
+Organizamos nossos projetos em pastas temáticas para facilitar a navegação e colaboração:
 
-- **Base/**: Documentação base, specs do hardware/SO, stack atual, MCPs, extensions
-- **Dev/**: Projetos de desenvolvimento (Python, Rust, Go, Java)
-- **AI/**: Experimentos com IA/ML, modelos, datasets, notebooks
-- **Web/**: Dashboards, sites, front-end (React, Vue, etc.)
+- **Base/**: Documentação base, specs do hardware/SO, stack atual
+- **Dev/**: Projetos de desenvolvimento web e software
+- **AI/**: Experimentos com automação e IA
+- **Web/**: Sites e aplicações web desenvolvidas
 - **Scripts/**: Scripts consolidados e versionados
-- **Temp/**: Experimentos rápidos, temporários (deletáveis)
-- **Backup/**: Arquivos antigos, archives
+- **Temp/**: Experimentos rápidos, temporários
+- **Backup/**: Arquivos antigos e archives
 
 ## 🚀 Como Usar
 
-1. **Clone o repo:** `git clone https://github.com/Deivisan/deivitech.git`
+1. **Clone o repositório:** `git clone https://github.com/Deivisan/deivitech.git`
 2. **Navegue:** `cd deivitech`
-3. **Explore pastas:** Cada subprojeto tem seu próprio README
-4. **Contribua:** Abra issues/PRs se quiser colaborar!
+3. **Explore projetos:** Cada pasta tem seu próprio README com instruções
+4. **Contribua:** Abra issues ou PRs para colaborações
+
+## 📊 Estatísticas
+
+- ✅ 15+ Sites Desenvolvidos
+- ✅ 50+ Scripts Criados
+- ✅ 200+ Clientes Atendidos
+- ✅ 150+ PCs Formatados
+- ✅ Satisfação: 98%
+- ✅ Tempo de Resposta: <2h
 
 ## 📊 Status Atual
 
 - ✅ Repositório inicializado
-- 🔄 MCPs precisam reconfiguração (Memory, Tavily, Git, etc.)
-- 🚧 Projetos em desenvolvimento contínuo
+- 🔄 Projetos em desenvolvimento contínuo
+- 🚧 Expansão para novos serviços
 
 ## 🤝 Contato
 
 - **GitHub:** [@Deivisan](https://github.com/Deivisan)
-- **LinkedIn:** [Deivison Santana] (se aplicável)
-- **Email:** [seu-email@exemplo.com]
+- **LinkedIn:** [Deivison Santana](https://linkedin.com/in/deivisonlsantana)
+- **Email:** deivilsantana@outlook.com
+- **WhatsApp:** [+55 75 98123-1019](https://wa.me/5575981231019)
+- **Localização:** Feira de Santana, BA
 
 ---
 
-**DevSan no comando! 💪** Sempre aprendendo, sempre construindo. Vamos codar o futuro juntos! 🚀
+**DeiviTech: Inovando com Tecnologia** 🚀 Transformando ideias em soluções práticas e acessíveis.
