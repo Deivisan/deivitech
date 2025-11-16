@@ -31,16 +31,6 @@ Ferramentas: Git, VS Code, Docker, Arch Linux. IA assistida com GitHub Copilot p
 
 Demonstramos expertise em diversos sistemas e hardwares para criações eficientes.
 
-## 📁 Estrutura do Repositório
-
-- **Base/**: Documentação base e configurações.
-- **Dev/**: Projetos de desenvolvimento.
-- **AI/**: Experimentos com automação.
-- **Web/**: Sites e aplicações.
-- **Scripts/**: Scripts consolidados.
-- **Temp/**: Experimentos temporários.
-- **Backup/**: Arquivos antigos.
-
 ## 🚀 Como Usar
 
 1. Clone: `git clone https://github.com/Deivisan/deivitech.git`
@@ -57,8 +47,6 @@ Demonstramos expertise em diversos sistemas e hardwares para criações eficient
 ## 🤝 Contato
 
 - **GitHub:** [@Deivisan](https://github.com/Deivisan)
-- **LinkedIn:** [Deivison Santana](https://linkedin.com/in/deivisonlsantana)
-- **WhatsApp:** [+55 75 98123-1019](https://wa.me/5575981231019)
 
 ---
 
